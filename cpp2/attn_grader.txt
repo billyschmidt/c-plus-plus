@@ -1,0 +1,20 @@
+A few notes about this submission -
+
+1. Since there seems to be a lot of confusion about which files to include
+   I've included pretty much everything there is.
+   
+2. After completion of certain steps within the explotations, I've compared my
+   code with the author's. Upon verification, I've then made some updates which
+   better reflect the intended lesson. So if my code looks very similar to the
+   author's, that is why. I wanted to state clearly that I did 
+   not just copy the code from the book.
+   
+3. If you have any questions about anything, feel free to question me about
+   any of these programs, as I will be able to verbally demonstrate my
+   knowledge.
+   
+Thanks,
+Bill Schmidt 
+4159697
+
+
